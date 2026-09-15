@@ -128,10 +128,10 @@ A private project focused on clustering purchasing behaviour and turning custome
 <div align="center">
 
 <a href="https://github.com/Blood79">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Blood79&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=Blood79&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/Blood79">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blood79&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Blood79&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
 </a>
 
 <br />
