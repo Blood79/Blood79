@@ -4,9 +4,9 @@
 
 ### AI/ML & Data Science • Cloud & DevOps
 
-**Building practical AI, data and cloud systems — from problem → model → application → deployment.**
+**I build practical AI and data systems — from raw data and models to APIs, cloud deployment and real-world workflows.**
 
-<a href="https://www.linkedin.com/in/ayush-kumar-gupta-43314b238"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/ayush-kumar-gupta-43314b238"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ayushkumargupta316@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Blood79"><img src="https://img.shields.io/badge/GitHub-Blood79-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
@@ -14,64 +14,47 @@
 
 ---
 
-## 🧠 About Me
+## 🧭 What I'm about
 
-I'm a **Computer Science student focused on AI/ML and Data Science**, with growing depth in **AWS, Cloud and DevOps**.
+I'm a **Computer Science student focused on AI/ML and Data Science**, with hands-on interest in **AWS, Cloud and DevOps**.
 
-I enjoy turning real-world problems into working systems — not just notebooks. My projects span **machine learning, computer vision, analytics, APIs, cloud infrastructure and deployment**.
+I like projects that move through the full engineering loop:
 
-**Current direction:** AI/ML + Data + Cloud Engineering
+**Problem → Data → Analysis → Model → Application → API → Cloud → Deployment → Monitoring**
 
-> **Learn → Build → Deploy → Measure → Improve**
+My goal is to become the kind of engineer who can **build the model and also ship the system around it**.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Core Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-### 🤖 AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,pandas,numpy,sklearn,tensorflow,pytorch,docker,git,github,linux,fastapi,aws" alt="Technology stack" />
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" alt="AI ML stack" />
+</div>
 
-`Machine Learning` `Deep Learning` `Computer Vision` `NLP` `GenAI` `LLMs` `RAG` `AI Agents`
+### 🤖 AI / ML
 
-</td>
-<td valign="top" width="50%">
+`Machine Learning` `Deep Learning` `Computer Vision` `NLP` `Generative AI` `LLMs` `RAG` `AI Agents`
+
+`Scikit-learn` `TensorFlow` `XGBoost` `Pandas` `NumPy`
 
 ### 📊 Data & Analytics
 
-<img src="https://skillicons.dev/icons?i=python,mysql" alt="Data stack" />
-
-`Pandas` `NumPy` `Scikit-learn` `XGBoost` `Matplotlib` `Seaborn` `SQL` `Power BI`
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+`SQL` `Power BI` `Matplotlib` `Seaborn` `EDA` `Feature Engineering` `Predictive Modelling` `Segmentation`
 
 ### ☁️ AWS / Cloud
 
 `EC2` `S3` `RDS` `DynamoDB` `Aurora` `CloudWatch` `CloudTrail` `IAM` `VPC` `CodePipeline`
 
-</td>
-<td valign="top" width="50%">
+### ⚙️ Engineering / DevOps
 
-### ⚙️ Development / DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,linux" alt="Development and DevOps stack" />
-
-`REST APIs` `CI/CD` `Containerization` `Deployment` `Cloud Infrastructure`
-
-</td>
-</tr>
-</table>
+`Git` `GitHub` `Docker` `FastAPI` `REST APIs` `Linux` `CI/CD` `Containerization` `Deployment`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 <table>
 <tr>
@@ -79,62 +62,60 @@ I enjoy turning real-world problems into working systems — not just notebooks.
 
 ### 🔍 Civic Behaviour Monitoring System
 
-Real-time computer vision platform combining **YOLOv8, InsightFace, MediaPipe, FastAPI and WebSockets**.
+**Flagship project — real-time computer vision**
 
-**Highlights**
-- Real-time person detection & tracking
+A modular CV application combining **YOLOv8, InsightFace, MediaPipe, FastAPI and WebSockets**.
+
+**Built around:**
+- Person detection & tracking
 - Face recognition
-- Activity/event detection
-- Backend ↔ frontend communication
-- Modular CV pipeline architecture
+- Activity analysis
+- Real-time event streaming
+- Backend ↔ frontend integration
 
-<a href="https://github.com/Blood79/Civic-Behaviour-Monitoring-System">→ View repository</a>
+<a href="https://github.com/Blood79/Civic-Behaviour-Monitoring-System">View project →</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📊 Customer Churn Prediction
 
-End-to-end ML workflow for **customer churn prediction and business-oriented analysis**.
+**Machine learning + business analytics**
 
-**Highlights**
-- Data preprocessing & EDA
-- Feature engineering
-- Classification models
-- Model comparison
-- Business insights
+An end-to-end workflow covering **data cleaning, EDA, feature preparation, classification and reusable pipeline output**.
 
-<a href="https://github.com/Blood79/Customer-Churn-Prediction">→ View repository</a>
+**Built around:**
+- Customer behaviour analysis
+- Churn prediction workflow
+- Model evaluation
+- Visual analysis
+- Reusable trained pipeline
+
+<a href="https://github.com/Blood79/Customer-Churn-Prediction">View project →</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 SmartCart Clustering System
+### 💳 Credit Wise Loaning System
 
-Unsupervised ML project for **customer segmentation and purchasing-behaviour analysis**.
+**Credit analytics + ML foundations**
 
-**Focus**
-- Clustering
-- Customer segmentation
-- Behaviour analysis
-- Retail analytics
+Exploration of loan-approval data with missing-value handling, feature encoding, EDA, correlation analysis and model-ready preprocessing.
+
+<a href="https://github.com/Blood79/Credit-Wise-Loaning-System">View project →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 💳 Credit Wise Loaning System
+### 🛒 SmartCart Clustering System
 
-Data-driven ML project exploring **credit/loan decision support** using predictive modelling.
+**Unsupervised learning / customer segmentation**
 
-**Focus**
-- Data analysis
-- Feature engineering
-- Predictive modelling
-- Decision support
+A private project focused on clustering purchasing behaviour and turning customer groups into retail insights.
 
-<a href="https://github.com/Blood79/Credit-Wise-Loaning-System">→ View repository</a>
+**Status:** polishing for a stronger public release.
 
 </td>
 </tr>
@@ -142,12 +123,12 @@ Data-driven ML project exploring **credit/loan decision support** using predicti
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Snapshot
 
 <div align="center">
 
 <a href="https://github.com/Blood79">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Blood79&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="Ayush's GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Blood79&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/Blood79">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blood79&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
@@ -155,21 +136,31 @@ Data-driven ML project exploring **credit/loan decision support** using predicti
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blood79&hide_border=true&theme=transparent" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blood79&hide_border=true&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&area_color=7aa2f7" alt="GitHub activity graph" />
+<img src="https://streak-stats.demolab.com/?user=Blood79&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Blood79/Blood79/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blood79&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&area_color=7aa2f7&hide_border=true&custom_title=Recent%20GitHub%20Activity" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Flow
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blood79/Blood79/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blood79/Blood79/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Blood79/Blood79/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -177,11 +168,16 @@ Data-driven ML project exploring **credit/loan decision support** using predicti
 
 ## 🔭 Currently Building
 
-- 🧠 **LLM Engineering** — RAG, evaluation, tool use and AI agents
-- 🤖 **Production AI** — turning ML prototypes into usable applications
-- ☁️ **AWS & Cloud** — deployment, monitoring, security and architecture
-- ⚙️ **DevOps** — Docker, CI/CD and reliable deployment workflows
-- 📊 **Data Engineering & Analytics** — SQL, pipelines, BI and decision systems
+<table>
+<tr>
+<td>🧠 <b>LLM Engineering</b><br/>RAG, evaluation, tool use and AI agents</td>
+<td>☁️ <b>Cloud Engineering</b><br/>AWS architecture, deployment and observability</td>
+</tr>
+<tr>
+<td>⚙️ <b>Production AI</b><br/>FastAPI, Docker, CI/CD and deployable ML systems</td>
+<td>📊 <b>Data Engineering</b><br/>SQL, pipelines, analytics and decision systems</td>
+</tr>
+</table>
 
 ---
 
@@ -189,17 +185,16 @@ Data-driven ML project exploring **credit/loan decision support** using predicti
 
 **AI/ML • Data Science • Data Analytics • Cloud • DevOps • Remote Internships • Freelance Projects**
 
-I'm especially interested in teams where I can **solve real problems, ship working systems and keep learning fast**.
+I'm especially interested in opportunities where I can **solve real problems, ship working systems and learn from strong technical teams**.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ayush-kumar-gupta-43314b238">LinkedIn</a> •
-<a href="mailto:ayushkumargupta316@gmail.com">Email</a> •
-<a href="https://github.com/Blood79">GitHub</a>
+<a href="https://linkedin.com/in/ayush-kumar-gupta-43314b238"><img src="https://img.shields.io/badge/LinkedIn-Ayush%20Kumar%20Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ayushkumargupta316@gmail.com"><img src="https://img.shields.io/badge/Email-ayushkumargupta316%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 <br /><br />
 
