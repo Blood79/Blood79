@@ -1,184 +1,208 @@
-# 👋 Hey, I'm Ayush Kumar Gupta
+<div align="center">
 
-I'm an **AI/ML & Data Science student** who enjoys building practical systems with **machine learning, data, cloud and DevOps**.
+# 👋 Hi, I'm Ayush Kumar Gupta
 
-I like taking a problem from **raw data → analysis → model → application → deployment**.
+### AI/ML & Data Science • Cloud & DevOps
 
-My main interests are **AI/ML, Data Science, Data Analysis, Cloud Computing, DevOps, Computer Vision, Generative AI and automation**.
+**Building practical AI, data and cloud systems — from problem → model → application → deployment.**
 
-I'm currently building projects that combine **Python + ML + AWS + modern software engineering** rather than treating AI as just a notebook exercise.
+<a href="https://www.linkedin.com/in/ayush-kumar-gupta-43314b238"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ayushkumargupta316@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Blood79"><img src="https://img.shields.io/badge/GitHub-Blood79-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+</div>
 
 ---
 
-## 🧠 What I Work With
+## 🧠 About Me
+
+I'm a **Computer Science student focused on AI/ML and Data Science**, with growing depth in **AWS, Cloud and DevOps**.
+
+I enjoy turning real-world problems into working systems — not just notebooks. My projects span **machine learning, computer vision, analytics, APIs, cloud infrastructure and deployment**.
+
+**Current direction:** AI/ML + Data + Cloud Engineering
+
+> **Learn → Build → Deploy → Measure → Improve**
+
+---
+
+## ⚡ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### 🤖 AI / Machine Learning
 
-`Python` `Scikit-learn` `TensorFlow` `XGBoost` `Pandas` `NumPy`
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" alt="AI ML stack" />
 
-`Machine Learning` `Deep Learning` `Computer Vision` `NLP` `Generative AI` `LLMs` `RAG` `AI Agents`
+`Machine Learning` `Deep Learning` `Computer Vision` `NLP` `GenAI` `LLMs` `RAG` `AI Agents`
 
-### 📊 Data Science & Analytics
+</td>
+<td valign="top" width="50%">
 
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `SQL`
+### 📊 Data & Analytics
 
-Data Cleaning · EDA · Feature Engineering · Predictive Modeling · Data Visualization · Customer Segmentation
+<img src="https://skillicons.dev/icons?i=python,mysql" alt="Data stack" />
 
-### ☁️ Cloud — AWS
+`Pandas` `NumPy` `Scikit-learn` `XGBoost` `Matplotlib` `Seaborn` `SQL` `Power BI`
 
-`EC2` `S3` `RDS` `DynamoDB` `Aurora`
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-`CloudWatch` `CloudTrail` `CodePipeline` `IAM` `VPC`
+### ☁️ AWS / Cloud
 
-I'm learning to build and deploy applications on AWS with an emphasis on **scalability, monitoring, security and reliability**.
+`EC2` `S3` `RDS` `DynamoDB` `Aurora` `CloudWatch` `CloudTrail` `IAM` `VPC` `CodePipeline`
 
-### ⚙️ DevOps & Development
+</td>
+<td valign="top" width="50%">
 
-`Git` `GitHub` `Docker` `FastAPI` `REST APIs` `Linux`
+### ⚙️ Development / DevOps
 
-CI/CD · Deployment · Containerization · Cloud Infrastructure
+<img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,linux" alt="Development and DevOps stack" />
+
+`REST APIs` `CI/CD` `Containerization` `Deployment` `Cloud Infrastructure`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔍 Civic Behaviour Monitoring System
 
-A real-time computer vision system combining multiple AI components into a complete application.
+Real-time computer vision platform combining **YOLOv8, InsightFace, MediaPipe, FastAPI and WebSockets**.
 
-**Tech:** YOLOv8 · InsightFace · MediaPipe · FastAPI · WebSockets · React
+**Highlights**
+- Real-time person detection & tracking
+- Face recognition
+- Activity/event detection
+- Backend ↔ frontend communication
+- Modular CV pipeline architecture
 
-**What it explores:**
+<a href="https://github.com/Blood79/Civic-Behaviour-Monitoring-System">→ View repository</a>
 
-* Real-time video processing
-* Person detection and tracking
-* Face recognition
-* Activity detection
-* Backend/frontend integration
-* Real-time event communication
-
-[View Project →](https://github.com/Blood79/Civic-Behaviour-Monitoring-System)
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 📊 Customer Churn Prediction
 
-An end-to-end ML project focused on predicting customer churn and extracting useful business insights from customer data.
+End-to-end ML workflow for **customer churn prediction and business-oriented analysis**.
 
-**Tech:** Python · Pandas · NumPy · Scikit-learn · XGBoost · Matplotlib · Seaborn
+**Highlights**
+- Data preprocessing & EDA
+- Feature engineering
+- Classification models
+- Model comparison
+- Business insights
 
-**Focus:**
+<a href="https://github.com/Blood79/Customer-Churn-Prediction">→ View repository</a>
 
-* Data preprocessing
-* Exploratory data analysis
-* Feature engineering
-* Model comparison
-* Classification
-* Business-oriented insights
-
-[View Project →](https://github.com/Blood79/Customer-Churn-Prediction)
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛒 SmartCart Clustering System
 
-A customer segmentation project using unsupervised machine learning to discover purchasing patterns and customer groups.
+Unsupervised ML project for **customer segmentation and purchasing-behaviour analysis**.
 
-**Focus:**
+**Focus**
+- Clustering
+- Customer segmentation
+- Behaviour analysis
+- Retail analytics
 
-* Customer segmentation
-* Clustering
-* Behaviour analysis
-* Retail analytics
-* Data-driven decision making
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 💳 Credit Wise Loaning System
 
-A data-driven project focused on applying machine learning concepts to credit and loan decision-making.
+Data-driven ML project exploring **credit/loan decision support** using predictive modelling.
 
-[View Project →](https://github.com/Blood79/Credit-Wise-Loaning-System)
+**Focus**
+- Data analysis
+- Feature engineering
+- Predictive modelling
+- Decision support
 
----
+<a href="https://github.com/Blood79/Credit-Wise-Loaning-System">→ View repository</a>
 
-## ☁️ AWS & Cloud Projects
-
-I'm also building hands-on experience with AWS services including:
-
-**Compute:** EC2
-
-**Storage:** S3
-
-**Databases:** RDS · DynamoDB · Aurora
-
-**Monitoring & Auditing:** CloudWatch · CloudTrail
-
-**DevOps / CI/CD:** CodePipeline
-
-**Infrastructure & Security:** IAM · VPC
-
-My goal is to move beyond simply learning individual AWS services and understand **how they work together to deploy and operate real applications**.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔭 Currently Learning & Building
+## 📈 GitHub Activity
 
-I'm currently going deeper into:
+<div align="center">
 
-**AI / ML**
+<a href="https://github.com/Blood79">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Blood79&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="Ayush's GitHub stats" />
+</a>
+<a href="https://github.com/Blood79">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blood79&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
+</a>
 
-* LLM Engineering
-* RAG systems
-* AI Agents
-* Generative AI
-* Production ML
+<br />
 
-**Cloud / DevOps**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blood79&hide_border=true&theme=transparent" alt="GitHub streak" />
 
-* AWS architecture
-* Docker
-* CI/CD
-* Cloud deployment
-* Monitoring and observability
+<br />
 
-**Data**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Blood79&hide_border=true&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&area_color=7aa2f7" alt="GitHub activity graph" />
 
-* Advanced SQL
-* Data pipelines
-* Analytics
-* Business intelligence
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Blood79/Blood79/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 🔭 Currently Building
+
+- 🧠 **LLM Engineering** — RAG, evaluation, tool use and AI agents
+- 🤖 **Production AI** — turning ML prototypes into usable applications
+- ☁️ **AWS & Cloud** — deployment, monitoring, security and architecture
+- ⚙️ **DevOps** — Docker, CI/CD and reliable deployment workflows
+- 📊 **Data Engineering & Analytics** — SQL, pipelines, BI and decision systems
 
 ---
 
 ## 🎯 What I'm Looking For
 
-I'm open to:
+**AI/ML • Data Science • Data Analytics • Cloud • DevOps • Remote Internships • Freelance Projects**
 
-**Remote internships · Freelance projects · AI/ML opportunities · Data Science work · Cloud/DevOps projects · Collaborations**
-
-I'm particularly interested in opportunities where I can work on **real problems, learn quickly, and ship something useful**.
-
----
-
-## 📈 My Approach
-
-I don't want to just collect certifications or technologies.
-
-I prefer learning by building:
-
-**Problem → Data → Analysis → Model → Application → Cloud → Deployment → Monitoring**
-
-That's the direction I'm working toward as I grow into an **AI/ML + Data + Cloud engineer**.
+I'm especially interested in teams where I can **solve real problems, ship working systems and keep learning fast**.
 
 ---
 
 ## 📫 Let's Connect
 
-**LinkedIn:** [Ayush Kumar Gupta](https://linkedin.com/in/ayush-kumar-gupta-43314b238)
+<div align="center">
 
-**GitHub:** [@Blood79](https://github.com/Blood79)
+<a href="https://www.linkedin.com/in/ayush-kumar-gupta-43314b238">LinkedIn</a> •
+<a href="mailto:ayushkumargupta316@gmail.com">Email</a> •
+<a href="https://github.com/Blood79">GitHub</a>
 
-**Email:** [ayushkumargupta316@gmail.com](mailto:ayushkumargupta316@gmail.com)
+<br /><br />
 
-Open to **remote opportunities, freelance work, collaborations and interesting AI/data/cloud projects.**
+<i>Building at the intersection of AI, data and cloud.</i>
+
+</div>
