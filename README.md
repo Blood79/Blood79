@@ -91,7 +91,7 @@ An end-to-end workflow covering **data cleaning, EDA, feature preparation, class
 - Visual analysis
 - Reusable trained pipeline
 
-<a href="https://github.com/Blood79/Customer-Churn-Prediction">View project →</a>
+<a href="https://github.com/Blood79/Customer_Churn_Prediction_Minor">View project →</a>
 
 </td>
 </tr>
@@ -105,6 +105,17 @@ An end-to-end workflow covering **data cleaning, EDA, feature preparation, class
 Exploration of loan-approval data with missing-value handling, feature encoding, EDA, correlation analysis and model-ready preprocessing.
 
 <a href="https://github.com/Blood79/Credit-Wise-Loaning-System">View project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 AI Neural Style Transfer
+
+**Deep Learning + Computer Vision**
+
+Production-oriented neural image stylization project using PyTorch, Flask, Docker and CI/CD.
+
+<a href="https://github.com/Blood79/AI_Neural_Style_Transfer">View project →</a>
 
 </td>
 <td width="50%" valign="top">
