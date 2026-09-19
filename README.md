@@ -118,6 +118,8 @@ Production-oriented neural image stylization project using PyTorch, Flask, Docke
 <a href="https://github.com/Blood79/AI_Neural_Style_Transfer">View project →</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛒 SmartCart Clustering System
